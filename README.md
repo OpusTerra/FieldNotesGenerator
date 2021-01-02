@@ -1,4 +1,4 @@
-# FieldNotesGenerator
+# Geocaching Field Notes Generator
 
 (English follow)
 
