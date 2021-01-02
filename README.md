@@ -12,8 +12,6 @@ Le but ultime de cette application est de tenter d’obtenir la date et l’heur
 
 Note: La langue anglaise a été utilisée dans cette application afin de pouvoir éventuellement mettre cette application disponible à l’ensemble mondial des géocacheurs.
 
-Cette application est disponible ici: FieldNotesGen.zip (Version 1.09 Beta) (Téléchargé 1384 fois)
-
 ------------------------------------
 
 Premium Geocaching.com members that are using a Colorado or an Oregon have a functionality named Field Notes that make it easy to log their caches. Here is a sample of a screen that they have after uploading their field notes on the GC web site.
