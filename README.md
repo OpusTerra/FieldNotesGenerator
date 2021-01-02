@@ -2,7 +2,7 @@
 
 (English follow)
 
-![Ecran Principal](https://github.com/OpusTerra/FieldNotesGenerator/blob/main/fieldnotesgen-s.jpg?raw=true)
+![Ecran Principal](https://github.com/OpusTerra/FieldNotesGenerator/blob/main/fieldnotesgen.jpg?raw=true)
 
 Les utilisateurs Premium member de Geocaching.Com qui se servent d’un Garmin Oregon ou d’un Colorado bénéficient d’une fonctionnalité nommée Field Notes afin de logger chacune des caches trouvées sur un parcours. Voici un exemple de ce dont a l'air cet écran une fois que les field notes ont été "uploadées" sur le site de geocaching.com.
 
